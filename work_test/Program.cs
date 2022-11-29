@@ -11,5 +11,13 @@ for (int i = 0; i < size; i++)
 }
 
 string[] newArray = new string[size];
+Console.WriteLine("Вывод массива: ");
+for (int i = 0; i < size; i++)
+{
+    if (newArray[i] is not null)
+    {
+        Console.Write($"{newArray[i]}, ");
 
+    }
+}
 
