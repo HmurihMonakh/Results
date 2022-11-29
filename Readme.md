@@ -16,7 +16,7 @@
 ![Final_work](https://github.com/HmurihMonakh/Results/blob/main/Final_work.png?raw=true)
 
 ## **2. Пишу код.**
-* Смотреть папку Results.
+* Смотреть папку work_test.
 
 [Вверх](#anchor)
 
