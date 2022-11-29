@@ -13,7 +13,7 @@
 * С помощью метода переводим из массива в массив найденные элементы.
 * Вывод конечного массива на экран
 
-![Final_work]()
+![Final_work](https://github.com/HmurihMonakh/Results/blob/main/Final_work.png?raw=true)
 
 ## **2. Пишу код.**
 * Смотреть папку Results.
