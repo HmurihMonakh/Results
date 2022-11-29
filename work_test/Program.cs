@@ -11,6 +11,8 @@ for (int i = 0; i < size; i++)
 }
 
 string[] newArray = new string[size];
+
+Massive(size);
 Console.WriteLine("Вывод массива: ");
 for (int i = 0; i < size; i++)
 {
